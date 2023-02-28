@@ -1,0 +1,384 @@
+{
+  "Sheet1": [
+    {
+      "A": "question",
+      "B": 1,
+      "C": 2,
+      "D": 3,
+      "E": 4,
+      "F": 5,
+      "G": "correct_answer"
+    },
+    {
+      "A": "2, 3, 4, 9, 16, ____",
+      "B": "70",
+      "C": "81",
+      "D": "18",
+      "E": "25",
+      "F": "36",
+      "G": 2
+    },
+    {
+      "A": "1, 4, 27, 16, 125, ____",
+      "B": "40",
+      "C": "30",
+      "D": "46",
+      "E": "36",
+      "F": "50",
+      "G": 4
+    },
+    {
+      "A": "4, 5, 9, 14, 23, ____",
+      "B": "39",
+      "C": "33",
+      "D": "37",
+      "E": "40",
+      "F": "43",
+      "G": 3
+    },
+    {
+      "A": "1, 4, 8, 13, ____",
+      "B": "18",
+      "C": "19",
+      "D": "20",
+      "E": "21",
+      "F": "22",
+      "G": 2
+    },
+    {
+      "A": "A, K, C, M, ___, O",
+      "B": "F",
+      "C": "H",
+      "D": "G",
+      "E": "E",
+      "F": "I",
+      "G": 4
+    },
+    {
+      "A": "1, 4, 9, 16, ___",
+      "B": 20,
+      "C": 24,
+      "D": 25,
+      "E": 30,
+      "F": 32,
+      "G": 3
+    },
+    {
+      "A": "1, 4, 5, 9, 10, ___",
+      "B": 11,
+      "C": 16,
+      "D": 14,
+      "E": 15,
+      "F": 20,
+      "G": 4
+    },
+    {
+      "A": "A, D, H, M, ____",
+      "B": "O",
+      "C": "P",
+      "D": "Q",
+      "E": "R",
+      "F": "S",
+      "G": 5
+    },
+    {
+      "A": "If in a certain language, BROWN is coded as AQNVM, how is ROGER coded in that code?",
+      "B": "QNFFQ",
+      "C": "QNEDQ",
+      "D": "QNFEQ",
+      "E": "QNFDQ",
+      "F": "QNFFS",
+      "G": 4
+    },
+    {
+      "A": "If in a certain language RULER is coded as RELUR, how is DEBUED coded in that code?",
+      "B": "DBEUED",
+      "C": "DEEBUD",
+      "D": "DBEEUD",
+      "E": "DEUEBD",
+      "F": "DEUBED",
+      "G": 5
+    },
+    {
+      "A": "If in a certain language HARSH is coded as SBSTS, how is KNICK coded in that code?",
+      "B": "AMIEA",
+      "C": "POJDP",
+      "D": "TOJDT",
+      "E": "LOJDL",
+      "F": "QOJDQ",
+      "G": 2
+    },
+    {
+      "A": "If in a certain language ENERGY is coded as GOGSIA, how is PROMOTE coded in that code?",
+      "B": "GROMOTE",
+      "C": "PSPNPUE",
+      "D": "RSPNPUG",
+      "E": "PSPUPNE",
+      "F": "PSNPUPE",
+      "G": 1
+    },
+    {
+      "A": "VERIFY is the opposite of?",
+      "B": "FERTILIZE",
+      "C": "DISPROVE",
+      "D": "AUTHENTICATE",
+      "E": "AGREE",
+      "F": "ALLOW",
+      "G": 2
+    },
+    {
+      "A": "STRINGS is to GUITAR as?",
+      "B": "WOOD is to CELLO",
+      "C": "PIANO is to KEYS",
+      "D": "BARS is to XYLOPHONE",
+      "E": "BOW is to VOILIN",
+      "F": "SOUND is to MUSIC",
+      "G": 3
+    },
+    {
+      "A": "At Leads pencil factory, 7% of all the pencils produced come out cracked. If 56 cracked pencils were produced on a given day, how many pencils were produced in total that day?",
+      "B": 80,
+      "C": 800,
+      "D": 392,
+      "E": 3920,
+      "G": 2
+    },
+    {
+      "A": "Ben is 75% of his uncle's age and 3 times older than his nephew. If Ben's uncle is 50 years old, how old is Ben's nephew?",
+      "B": 10.5,
+      "C": 28,
+      "D": 17,
+      "E": 9.5,
+      "F": 12.5,
+      "G": 5
+    },
+    {
+      "A": "There are six printers at \"Today's news\" newspaper, each printing at the same constant rate. When working together, the six printers can complete the printing of tomorrow's newspaper within 12 hours. If the owner wishes to reduce the printing time to 8 hours, how many other printers will he need to purchase, each with the same constant rate?",
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5,
+      "F": 6,
+      "G": 2
+    },
+    {
+      "A": "All pearls are shiny. Some pearls are black. No black things are shiny.",
+      "B": "TRUE",
+      "C": "FALSE",
+      "D": "Uncertain",
+      "G": 2
+    },
+    {
+      "A": "Most of the snakes are green, Most of the snakes are quick, At least one snake is both green and quick",
+      "B": "TRUE",
+      "C": "FALSE",
+      "D": "Uncertain",
+      "G": 1
+    },
+    {
+      "A": "Dr. Frantz is the boss of Mr. Abelard, Mr. Abelard's position is under that of Professor Glickman's, Professor Glickman is the boss of Dr. Frantz",
+      "B": "TRUE",
+      "C": "FALSE",
+      "D": "Uncertain",
+      "G": 3
+    },
+    {
+      "A": "Aron owns a bakery. In one day, he sold 60% of his hand-made fresh buns and still had 180 buns left. How many buns did Aron originally bake that day?",
+      "B": 72,
+      "C": 400,
+      "D": 252,
+      "E": 450,
+      "F": 288,
+      "G": 4
+    },
+    {
+      "A": "180 is 30% of what number?",
+      "B": 60,
+      "C": 600,
+      "D": 400,
+      "E": 55,
+      "F": 540,
+      "G": 2
+    },
+    {
+      "A": "3 packs of chocolate cost $0.90, how much will 9 packs cost?",
+      "B": 0.1,
+      "C": 0.3,
+      "D": 1.5,
+      "E": 2.7,
+      "F": 2.2,
+      "G": 4
+    },
+    {
+      "A": "A coat usually costs $60. On sale, its price is reduced by 30%. What would be the coat's new price?",
+      "B": 18,
+      "C": 42,
+      "D": 20,
+      "E": 30,
+      "F": 78,
+      "G": 2
+    },
+    {
+      "A": "Maya is 3 times older than Zak. If in 2 years Zak will be 22, how old is Maya today?",
+      "B": 20,
+      "C": 60,
+      "D": 40,
+      "E": 42,
+      "F": 50,
+      "G": 2
+    },
+    {
+      "A": "Debora started collecting stamps. On each of the first two days she collected 22 stamps. On each of the three days that followed, she collected 33 stamps. How many stamps will she have by the end of the fifth day of stamp collecting?",
+      "B": 55,
+      "C": 155,
+      "D": 143,
+      "E": 132,
+      "F": 180,
+      "G": 3
+    },
+    {
+      "A": "If a 10-year-old boy is 1/2 as old as his uncle, how old will the uncle be when the boy is 17?",
+      "B": 27,
+      "C": 24,
+      "D": 17,
+      "E": 25,
+      "F": 30,
+      "G": 1
+    },
+    {
+      "A": "Choose appropriate word:  With the increasing popularity of cell-phones, pay-phones are slowly becoming ________.",
+      "B": "Obsolete",
+      "C": "Contemporary",
+      "D": "Common",
+      "E": "Radical",
+      "F": "Must",
+      "G": 1
+    },
+    {
+      "A": "Pick the odd one out: 1, 3, 4, 9, 11, 18",
+      "B": 3,
+      "C": 9,
+      "D": 4,
+      "E": 11,
+      "F": 1,
+      "G": 2
+    },
+    {
+      "A": "Pick the odd one out: A, D, G, K, M, P",
+      "B": "G",
+      "C": "D",
+      "D": "K",
+      "E": "M",
+      "F": "P",
+      "G": 3
+    },
+    {
+      "A": "SHORT is to TALL as…",
+      "B": "RED is to PINK",
+      "C": "SIT is to LIE",
+      "D": "RUNNING is to WALKING",
+      "E": "LIGHT is to DARK",
+      "F": "FAR is to FARTHER",
+      "G": 4
+    },
+    {
+      "A": "BRASH is the opposite of?",
+      "B": "DULL",
+      "C": "POLITE",
+      "D": "ARROGANT",
+      "E": "SHINY",
+      "F": "PLASTIC",
+      "G": 2
+    },
+    {
+      "A": "Which is the most reasonable and accurate statement?",
+      "B": "Private keyword is used to hide data",
+      "C": "Function overriding relates to multiple behavior of same function",
+      "D": "Constructors are used to destroy objects",
+      "E": "Compilation is slower than interpretation",
+      "F": "Block box testing is a new field in AI",
+      "G": 2
+    },
+    {
+      "A": "Which is the following explain STACK correctly?",
+      "B": "It’s a data structure",
+      "C": "It’s a type of keyword",
+      "D": "It’s a data structure that follow FIFO",
+      "E": "It’s a data structure that follow LIFO",
+      "F": "It’s a recursive function",
+      "G": 4
+    },
+    {
+      "A": "Difference between CLASS and OBJECT is?",
+      "B": "Same as FOR and WHILE",
+      "C": "Same as PRIVATE and PROTECTED",
+      "D": "Same as ANIMAL and CAT",
+      "E": "Same as PARENT and PARENT.GetInstance()",
+      "F": "None of the above",
+      "G": 4
+    },
+    {
+      "A": "The best way to implement a word search in a paragraph should be?",
+      "B": "Using binary search",
+      "C": "Using linear search",
+      "D": "Convert words into hash collection",
+      "E": "Split words using spaces",
+      "F": "All of the above",
+      "G": 3
+    },
+    {
+      "A": "Complete or fill the missing item in the following series: 36, 34, 30, 28, 24, ___",
+      "B": 22,
+      "C": 20,
+      "D": 18,
+      "E": 16,
+      "F": 21,
+      "G": 1
+    },
+    {
+      "A": "Complete or fill the missing item in the following series: 19, 18, 20, 17, ___, 16",
+      "B": 23,
+      "C": 21,
+      "D": 27,
+      "E": 25,
+      "F": 30,
+      "G": 1
+    },
+    {
+      "A": "Complete or fill the missing item in the following series: 91, 9, 81, 10, 71, 11,",
+      "B": 91,
+      "C": 1,
+      "D": 12,
+      "E": 19,
+      "F": 61,
+      "G": 5
+    },
+    {
+      "A": "Complete or fill the missing item in the following series: A, U, C, S, D, ___",
+      "B": "R",
+      "C": "E",
+      "D": "P",
+      "E": "Q",
+      "F": "M",
+      "G": 1
+    },
+    {
+      "A": "Complete or fill the missing item in the following series: A, L, C, J, E, ____",
+      "B": "F",
+      "C": "H",
+      "D": "D",
+      "E": "G",
+      "F": "L",
+      "G": 2
+    },
+    {
+      "A": "If in a certain language FASHION is coded as FOIHSAN, how is PROBLEM coded in that code?",
+      "B": "RPBOELM",
+      "C": "PELBORM",
+      "D": "ROBELPM",
+      "E": "PELBROM",
+      "F": "PLEBROM",
+      "G": 2
+    }
+  ]
+}
