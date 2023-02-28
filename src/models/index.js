@@ -3,8 +3,12 @@ const database = require("../config/database");
 const fs = require("fs");
 const { resolve } = require("path");
 
-const config = database["development"];
-console.log(config);
+const config =
+	database[
+		typeof process.env.NODE_ENV === "undefined"
+			? "development"
+			: process.env.NODE_ENV
+	];
 const sequelize = new Sequelize({
 	...config,
 	port: 5432,
@@ -50,5 +54,5 @@ module.exports = {
 		Option,
 		User,
 	},
-	sequelize
+	sequelize,
 };
