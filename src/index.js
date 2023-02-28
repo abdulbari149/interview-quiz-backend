@@ -4,14 +4,14 @@ const { config } = require("dotenv");
 config({ path: "../.env" });
 initModels();
 
-const cors = require("cors");
+const  cors = require("cors");
 const userRouter = require("./routes/user");
 const seederRouter = require("./routes/seeder");
 const quizRouter = require("./routes/quiz");
 
 const app = express();
 
-app.use(cors());
+app.use(cors({ origin: '*' }));
 app.use(express.json());
 app.use(
 	express.urlencoded({
